@@ -40,7 +40,7 @@ p{
     font-size:15px;
     color:hsl(220, 15%, 55%);
 }
-@media  screen and (min-width:400px){
+@media  screen and (max-width:400px){
     main{
         left:15%;
         background-color:black;
