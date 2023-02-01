@@ -43,5 +43,6 @@ p{
 @media  screen and (min-width:400px){
     main{
         left:15%;
+        background-color:black;
     }
 }
